@@ -16,3 +16,5 @@ The data set includes information about:
 -Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 
 -Demographic info about customers – gender, age range, and if they have partners and dependents
+
+I did some basic data analysis first and applied Logistic Regression and Light Gradient boosting Descent(LGBM) these two models and compared the result
